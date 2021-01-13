@@ -15,10 +15,12 @@
 <code><img height="50" src="https://www.flaticon.com/svg/vstatic/svg/919/919826.svg?token=exp=1610577134~hmac=fb44a99b4e3b9d00115475ae39a59548"></code>
 
 <br/><br/><br/>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ynsinan&theme=midnight-purple&show_icons=true)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ynsinan&layout=compact&theme=midnight-purple)
+
 <p align="center">
-**Social Media**<br/><br/>
+Social Media<br/><br/>
 <code align="center" ><a href="https://www.linkedin.com/in/yunusinan/"><!-- resimle link oluşturma.--><img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1610578036~hmac=d3be78c5f9f78daa7737042915c13b8d" height="50"></a></code>
 </p>
 
