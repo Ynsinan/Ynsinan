@@ -1,5 +1,7 @@
 ### Hi there 👋I'm [Yunus İNAN!](https://github.com/Ynsinan) 👋
 <br/>
+<h3 align="center">Someone who wants to be a Cyber Security Specialist and Web Developer</h3>
+<br/>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ynsinan"%20 alt="ynsinan"/> 
 </p>
