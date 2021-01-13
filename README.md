@@ -1,5 +1,5 @@
 ### Hi there 👋I'm [Yunus İNAN!](https://github.com/Ynsinan) 👋<br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ynsinan"%20 alt="ynsinan"/> </p>
+
 **Languages and Tools:**  <br/><br/>
 <code><img height="50" src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1610576956~hmac=ffe5260c01f861861c3b7f7d468146af"></code>
 <code><img height="50" src="https://www.flaticon.com/svg/vstatic/svg/919/919827.svg?token=exp=1610577079~hmac=d07ad5cdc980bd2fa0b29a876983b0c6"></code>
