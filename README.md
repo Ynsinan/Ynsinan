@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ynsinan&layout=compact&theme=midnight-purple)
 
 **Languages and Tools:**  
-<code><img height="50" src="https://www.flaticon.com/svg/vstatic/svg/152/152760.svg?token=exp=1610576951~hmac=62e30647c2dfffa6547c9a98495e2fef"></code>
+<code><img height="50" src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1610576956~hmac=ffe5260c01f861861c3b7f7d468146af"></code>
 <!--
 **Ynsinan/Ynsinan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
