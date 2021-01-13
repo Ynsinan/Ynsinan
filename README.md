@@ -1,6 +1,6 @@
 ### Hi there 👋I'm [Yunus İNAN!](https://github.com/Ynsinan) 👋
 <br/>
-<p align="center"> 
+<p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ynsinan"%20 alt="ynsinan"/> 
 </p>
 
