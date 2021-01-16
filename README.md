@@ -21,7 +21,8 @@
 <!-- 
 <p align="center">
 Social Media<br/><br/> 
-<code align="center" ><a href="https://www.linkedin.com/in/yunusinan/"><!-- resimle link oluşturma.--><img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1610578036~hmac=d3be78c5f9f78daa7737042915c13b8d" height="50"></a></code>
+<code align="center" ><a href="https://www.linkedin.com/in/yunusinan/"><!-- resimle link oluşturma.-->
+<!--<img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1610578036~hmac=d3be78c5f9f78daa7737042915c13b8d" height="50"></a></code>
 </p> -->
 
 
