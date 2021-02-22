@@ -24,7 +24,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ynsinan&layout=compact&theme=midnight-purple)
 
 # 🧰 I'm familiar with
-
+![](https://img.shields.io/badge/-JAVA-%23E44D27?style=flat-square&logo=java&logoColor=ffffff)
 ![](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
