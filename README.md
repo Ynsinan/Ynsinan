@@ -29,7 +29,8 @@
 ![](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-<p align="center">
+
+#<p align="center">
    <img src="https://komarev.com/ghpvc/?username=Ynsinan"%20 alt="Ynsinan"/> 
   </p>
 
