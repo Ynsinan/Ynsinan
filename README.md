@@ -5,9 +5,9 @@
 <p align="center">
    <img src="https://media.giphy.com/media/RnPRNP5ICPl6M/giphy.gif" width="600" />
 </p>
-<p align="left"> 
+<!--<p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ynsinan"%20 alt="ynsinan"/> 
-</p>
+</p> -->
 
 <!--**Languages and Tools:**  
 <br/>
