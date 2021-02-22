@@ -22,13 +22,14 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ynsinan&theme=midnight-purple&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ynsinan&layout=compact&theme=midnight-purple)
-
+<p align="center">
 # 🧰 I'm familiar with
 ![](https://img.shields.io/badge/-JAVA-%23E44D27?style=flat-square&logo=java&logoColor=ffffff)
 ![](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+   </p>
 
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=Ynsinan"%20 alt="Ynsinan"/> 
