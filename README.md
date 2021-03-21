@@ -13,8 +13,8 @@
 <code><img height="50" src="https://www.flaticon.com/svg/vstatic/svg/919/919827.svg?token=exp=1610577079~hmac=d07ad5cdc980bd2fa0b29a876983b0c6"></code>
 <code><img height="50" src="https://www.flaticon.com/svg/vstatic/svg/919/919826.svg?token=exp=1610577134~hmac=fb44a99b4e3b9d00115475ae39a59548"></code> -->
 
-![](https://raw.githubusercontent.com/Ynsinan/github-stats/831bea8c8b883d228097cd30441b59f5d482a15f/generated/overview.svg)
-![](https://raw.githubusercontent.com/Ynsinan/github-stats/831bea8c8b883d228097cd30441b59f5d482a15f/generated/languages.svg)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ynsinan&theme=maroongold&show_icons=true) </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ynsinan&layout=compact&theme=maroongold)](https://github.com/SerhatG35/github-readme-stats) </br>
 
 # 🧰 I'm familiar with
 
