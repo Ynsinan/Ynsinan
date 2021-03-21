@@ -16,6 +16,12 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ynsinan&theme=maroongold&show_icons=true) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ynsinan&layout=compact&theme=maroongold)](https://github.com/SerhatG35/github-readme-stats) </br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ynsinan&show_icons=true&locale=en&layout=compact" alt="ynsinan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ynsinan&show_icons=true&theme=dark&title_color=000000&locale=en" alt="ynsinan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ynsinan&" alt="ynsinan" /></p>
+
 # 🧰 I'm familiar with
 
 ![](https://img.shields.io/badge/-JAVA-%23E44D27?style=flat-square&logo=java&logoColor=ffffff)
