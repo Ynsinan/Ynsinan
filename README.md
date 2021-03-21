@@ -13,9 +13,9 @@
 <code><img height="50" src="https://www.flaticon.com/svg/vstatic/svg/919/919827.svg?token=exp=1610577079~hmac=d07ad5cdc980bd2fa0b29a876983b0c6"></code>
 <code><img height="50" src="https://www.flaticon.com/svg/vstatic/svg/919/919826.svg?token=exp=1610577134~hmac=fb44a99b4e3b9d00115475ae39a59548"></code> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ynsinan&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="ynsinan" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ynsinan&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="ynsinan" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ynsinan&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en" alt="ynsinan" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ynsinan&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en" alt="ynsinan" />
 
 # 🧰 I'm familiar with
 
