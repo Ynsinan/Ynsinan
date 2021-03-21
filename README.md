@@ -1,3 +1,13 @@
+#!/usr/bin/ruby
+
+STDERR.print <<EOS
+Warning: The Ruby Homebrew installer is now deprecated and has been rewritten in
+Bash. Please migrate to the following command:
+  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+EOS
+
+Kernel.exec "/bin/bash", "-c", '/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"'
+
 ### Hi there 👋I'm [Yunus İNAN!](https://github.com/Ynsinan) 👋
 <br/>
 <h3 align="center">Someone who wants to be a Cyber Security Specialist and Web Developer</h3>
