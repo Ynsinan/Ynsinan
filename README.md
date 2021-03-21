@@ -13,14 +13,9 @@
 <code><img height="50" src="https://www.flaticon.com/svg/vstatic/svg/919/919827.svg?token=exp=1610577079~hmac=d07ad5cdc980bd2fa0b29a876983b0c6"></code>
 <code><img height="50" src="https://www.flaticon.com/svg/vstatic/svg/919/919826.svg?token=exp=1610577134~hmac=fb44a99b4e3b9d00115475ae39a59548"></code> -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ynsinan&theme=maroongold&show_icons=true) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ynsinan&layout=compact&theme=maroongold)](https://github.com/SerhatG35/github-readme-stats) </br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ynsinan&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="ynsinan" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ynsinan&show_icons=true&locale=en&layout=compact" alt="ynsinan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ynsinan&show_icons=true&theme=dark&title_color=000000&locale=en" alt="ynsinan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ynsinan&" alt="ynsinan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ynsinan&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en" alt="ynsinan" /></p>
 
 # 🧰 I'm familiar with
 
