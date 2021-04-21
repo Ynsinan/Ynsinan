@@ -1,7 +1,7 @@
 
 ### Hi there 👋I'm [Yunus İNAN!](https://github.com/Ynsinan) 👋
 <br/>
-<h3 align="center">Someone who wants to be a Cyber Security Specialist and Web Developer</h3>
+<h3 align="center">Someone who wants to be Frontend Web Developer</h3>
 <br/>
 <p align="center">
    <img src="https://media.giphy.com/media/RnPRNP5ICPl6M/giphy.gif" width="600" />
