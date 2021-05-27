@@ -15,7 +15,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ynsinan&hide=Rich%20Text%20Format,pug,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=tokyonight" alt="ynsinan" />
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ynsinan&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en" alt="ynsinan" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ynsinan&count_private=true&show_icons=true&theme=tokyonight" alt="ynsinan" />
 
 # 🧰 I'm familiar with
 
