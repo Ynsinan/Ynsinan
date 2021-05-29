@@ -13,7 +13,7 @@
 <code><img height="50" src="https://www.flaticon.com/svg/vstatic/svg/919/919827.svg?token=exp=1610577079~hmac=d07ad5cdc980bd2fa0b29a876983b0c6"></code>
 <code><img height="50" src="https://www.flaticon.com/svg/vstatic/svg/919/919826.svg?token=exp=1610577134~hmac=fb44a99b4e3b9d00115475ae39a59548"></code> -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ynsinan&hide=Rich%20Text%20Format,pug,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=tokyonight" alt="ynsinan" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ynsinan&hide=Rich%20Text%20Format,pug,html,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=tokyonight" alt="ynsinan" />
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ynsinan&count_private=true&show_icons=true&theme=tokyonight" alt="ynsinan" />
 
