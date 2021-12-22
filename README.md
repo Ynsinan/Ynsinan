@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=react&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Typescript-61DAFB?style=flat-square&logo=typescript&logoColor=111111)
-![}(https://img.shields.io/badge/-StyledComponents-3D3D3D?style=flat-square&logo=styledcomponents&logoColor=B26297)
+![](https://img.shields.io/badge/-StyledComponents-3D3D3D?style=flat-square&logo=styledcomponents&logoColor=B26297)
 
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=Ynsinan"%20 alt="Ynsinan"/> 
