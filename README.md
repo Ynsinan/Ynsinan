@@ -21,11 +21,12 @@
 # 🧰 Tech Stack
 
 <p align="center">
-   <img alt="Javascript" src="https://img.shields.io/badge/-JAVA-%23E44D27?style=flat-square&logo=java&logoColor=ffffff](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" />
-   <img alt="React" src="https://img.shields.io/badge/-JAVA-%23E44D27?style=flat-square&logo=java&logoColor=ffffff](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white](https://img.shields.io/badge/-Typescript-61DAFB?style=flat-square&logo=typescript&logoColor=111111)" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffd500?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/-React-198CFF?style=flat-square&logo=react&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
    <img alt="NodeJS" src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white" />
+     <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
 </p>
 
 <p align="center">
