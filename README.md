@@ -2,6 +2,7 @@
 ### Hi there 👋I'm [Yunus İNAN!](https://github.com/Ynsinan) 👋
 <br/>
 <h3 align="center">Someone who wants to be Frontend Web Developer</h3>
+<p align="center">Aiming to improve himself in the field of frontend, trying to develop and learn without interruption. I am also a Computer Engineering student.</p>
 <br/>
 <p align="center">
    <img src="https://media.giphy.com/media/RnPRNP5ICPl6M/giphy.gif" width="600" />
@@ -17,36 +18,16 @@
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ynsinan&count_private=true&show_icons=true&theme=tokyonight" alt="ynsinan" />
 
-# 🧰 I'm familiar with
+# 🧰 Tech Stack
 
-![](https://img.shields.io/badge/-JAVA-%23E44D27?style=flat-square&logo=java&logoColor=ffffff)
-![](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=react&logoColor=ffffff)
-![](https://img.shields.io/badge/-Typescript-61DAFB?style=flat-square&logo=typescript&logoColor=111111)
-![](https://img.shields.io/badge/-StyledComponents-3D3D3D?style=flat-square&logo=styledcomponents&logoColor=B26297)
+<p align="center">
+   <img alt="Javascript" src="https://img.shields.io/badge/-JAVA-%23E44D27?style=flat-square&logo=java&logoColor=ffffff](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" />
+   <img alt="React" src="https://img.shields.io/badge/-JAVA-%23E44D27?style=flat-square&logo=java&logoColor=ffffff](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white](https://img.shields.io/badge/-Typescript-61DAFB?style=flat-square&logo=typescript&logoColor=111111)" />
+   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+   <img alt="NodeJS" src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white" />
+</p>
 
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=Ynsinan"%20 alt="Ynsinan"/> 
   </p>
-
-
-
-
-<!--
-**Ynsinan/Ynsinan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
