@@ -18,7 +18,7 @@
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ynsinan&count_private=true&show_icons=true&theme=tokyonight" alt="ynsinan" />
 
-# 🧰 Tech Stack
+# <p align="center">🧰 Tech Stack</p>
 
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffd500?style=flat-square&logo=javascript&logoColor=black" />
