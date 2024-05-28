@@ -1,6 +1,6 @@
 
 ## Hello Foreigner 👋
-<p>Hi, I'm Yunus Frontend Developer at @iddaa.com at the moment. Usually I work on frontend technologies and learn new thoughts day by day. You can check my projects and if you have any question text me </p>
+Hi, I'm Yunus Frontend Developer at [ŞansTech](https://www.linkedin.com/company/sans-technology/mycompany/) / [İddaa](https://www.iddaa.com) at the moment. Usually I work on frontend technologies and learn new thoughts day by day. You can check my projects and if you have any question text me.
 
 ### 🧰 Tech Stack
 <p>
